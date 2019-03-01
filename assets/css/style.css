@@ -1,0 +1,16 @@
+.gifdiv{
+    float: left;
+    margin: 10px;
+}
+
+#topicbox{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    padding-right: 5px;    
+}
+
+.topicbtn{
+    margin-top: 5px; 
+    margin-bottom: 5px;
+}
